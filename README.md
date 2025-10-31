@@ -104,7 +104,7 @@ Publish the website in the given URL.
 ![alt text](<Screenshot 2025-10-31 131533.png>)
 
 ## HOMEPAGE:
-![alt text](<Screenshot 2025-10-31 131618.png>)
+![alt text](image.png)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
